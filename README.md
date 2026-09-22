@@ -7,3 +7,25 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ[carrd](https://httpxiangsi.carrd.co)ㅤㅤ𝄞݂۫ㅤㅤ𓈒ㅤ [pint](https://ru.pinterest.com/YuiOguraorig/)ㅤㅤ؛ ᛝㅤㅤdiscord: xxx.gaycorn /ask to dm!
 
 <img width="170" height="50" alt="Без названия22_20260906133155" src="https://github.com/user-attachments/assets/00e79a68-806c-4d83-b6f1-ecd195166012" /> <img width="500" height="30" alt="blue-divider" src="https://github.com/user-attachments/assets/85892d8b-1932-46a6-b5f1-09fbbb2049b0" />
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="72.5" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+    <mask id="a">
+        <rect width="72.5" height="20" rx="3" fill="#fff"/>
+    </mask>
+    <g mask="url(#a)">
+        <rect width="31" height="20" fill="#555"/>
+        <rect x="31" width="41.5" height="20" fill="#000000"/>
+        <rect width="72.5" height="20" fill="url(#b)"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <text x="16.5" y="15" fill="#010101" fill-opacity=".3">⠀‪‪❤︎‬</text>
+        <text x="16.5" y="14">⠀‪‪❤︎‬</text>
+        <text x="50.8" y="15" fill="#010101" fill-opacity=".3">1,110</text>
+        <text x="50.8" y="14">1,110</text>
+    </g>
+</svg>
