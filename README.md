@@ -1,6 +1,6 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ            ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ           𓆩![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?label=𝒍𝒐𝒗𝒆shots+♡&color=cyan&labelColor=black)𓆪
 
-<img width="54" height="50" alt="Без названия22_20260906133155" src="https://github.com/user-attachments/assets/00e79a68-806c-4d83-b6f1-ecd195166012" /> <img width="735" height="225" alt="3025924747067415" src="https://github.com/user-attachments/assets/4dd2078f-93f2-4152-af94-fd27f93a84d2" />
+<img width="54" height="50" alt="Без названия22_20260906133155" src="https://github.com/user-attachments/assets/00e79a68-806c-4d83-b6f1-ecd195166012" /> <iframe src="https://assets.pinterest.com/ext/embed.html?id=3025924747067415" height="326" width="345" frameborder="0" scrolling="no" ></iframe>
 
                                                         ʚ‎‏ ͜ ̩͙ ︵ ̩͙ ୨ ♡ ୧ ̩͙ ‏︵ ̩͙ ͜ ɞ
 
