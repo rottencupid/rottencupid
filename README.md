@@ -1,1 +1,1 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ      ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ       𓆩![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?label=𝒍𝒐𝒗𝒆shots+♡&color=cyan&labelColor=black)𓆪
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ      ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ       𓆩![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?label=sins+♡&color=cyan&labelColor=black)𓆪
