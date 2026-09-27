@@ -7,7 +7,7 @@
 
   ྀི◟  𓏏   𓏼´ ⋏ `𓏼）   ♡
 
-  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ[carrd](https://httpxiangsi.carrd.co)ㅤㅤ𝄞݂۫ㅤㅤ𓈒ㅤ [pint](https://ru.pinterest.com/YuiOguraorig/)ㅤㅤ⑅ִ۫  ᵕㅤㅤ  ̹  ![Static Badge](https://img.shields.io/badge/⋮-xxx.gaycorn-black?logo=discord&labelColor=black)◞˙݂ ݂ ݂ 
+  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ◟ [carrd](https://httpxiangsi.carrd.co)ㅤㅤ𝄞݂۫ㅤㅤ𓈒ㅤ [pint](https://ru.pinterest.com/YuiOguraorig/)ㅤㅤ⑅ִ۫  ᵕㅤㅤ  ̹  ![Static Badge](https://img.shields.io/badge/⋮-xxx.gaycorn-black?logo=discord&labelColor=black)◞˙݂ ݂ ݂ 
 
 <img width="80" height="18" alt="tumblr_c91561bef16f3ae1a90be300a16904e3_f926a5c2_100" src="https://github.com/user-attachments/assets/aeafe0a5-f3c6-464d-9937-a6d844aa6c20" />
 .
