@@ -14,4 +14,4 @@
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤ ㅤ ྀི◟  𓏏   𓏼´ ⋏ `𓏼）   ♡
 
-<img width="540" height="97" alt="tumblr_7ae29596de1417acde283931f79ba9c9_650b74c8_540" src="https://github.com/user-attachments/assets/0abc951f-c7ba-460c-a4a3-0a28c524cb52" />
+<img width="400" height="23" alt="tumblr_ba2de6777a3444318368230e730f2a98_e0497f0f_400" src="https://github.com/user-attachments/assets/e0f83e3e-30ca-411c-8e37-e6a5d2a68f45" />
