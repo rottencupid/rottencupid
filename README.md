@@ -5,10 +5,10 @@
 
 ㅤㅤ<img width="199" height="110" alt="tumblr_797b98038e13f5959b9ef7c28a286d9a_fbac1416_100" src="https://github.com/user-attachments/assets/fdfd836e-28f3-463f-9741-f530017b4be8" /> . <img width="199" height="110" alt="tumblr_4d1372fe59905feb4552aa9059e78f70_4bd6d512_100" src="https://github.com/user-attachments/assets/12cf363a-d962-48ff-98fc-f9b8db3bbbef" /> . <img width="199" height="110" alt="tumblr_df205a78a31384ed6e3cdf11dadbe3e6_53d46a5a_100" src="https://github.com/user-attachments/assets/af093b12-50bc-4509-a36f-41966561ffbc" />
 
-  ྀི◟  𓏏   𓏼´ ⋏ `𓏼）   ♡
 
    ་ <img width="188" height="25" alt="tumblr_153306e010c733d6eac6e17f2ead7553_3b83c862_250" src="https://github.com/user-attachments/assets/6d91f0fc-97b7-4188-9014-ea7096488e51" /> ་
 
+   ͜͜✚     [carrd](https://httpxiangsi.carrd.co)   . [pint](https://ru.pinterest.com/YuiOguraorig/) ：
 
   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ◟ [carrd](https://httpxiangsi.carrd.co)ㅤㅤ𝄞݂۫ㅤㅤ𓈒ㅤ [pint](https://ru.pinterest.com/YuiOguraorig/)ㅤㅤ⑅ִ۫  ᵕㅤㅤ  ̹  ![Static Badge](https://img.shields.io/badge/⋮-xxx.gaycorn-black?logo=discord&labelColor=black)◞˙݂ ݂ ݂ 
 
@@ -20,3 +20,5 @@
 .
 .
 <img width="335" height="60" alt="tumblr_58c50d1e8552a764575cdf691040dbd5_5b3976e3_1280" src="https://github.com/user-attachments/assets/a5966690-ee1f-4a13-901d-4f1c472a42eb" />
+
+  ྀི◟  𓏏   𓏼´ ⋏ `𓏼）   ♡
