@@ -14,4 +14,4 @@
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤ。✿ ㅅ `͈ 𓏼 )ა
 
-ㅤㅤㅤ<img src="https://camo.githubusercontent.com/46eb9369f1c070e9c8756c279da39bfa9e50fc47b64301cd7c46b12d09b065e5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d464646464646266c696e65733d2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b6f68682b3f" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&amp;lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+you're+gay" style="max-width: 100;">
+ㅤㅤㅤ<img src="https://camo.githubusercontent.com/46eb9369f1c070e9c8756c279da39bfa9e50fc47b64301cd7c46b12d09b065e5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d464646464646266c696e65733d2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b2d2b6f68682b3f" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&amp;lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+youre+gay" style="max-width: 100;">
