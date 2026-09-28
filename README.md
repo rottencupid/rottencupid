@@ -12,4 +12,4 @@
 
 ㅤㅤㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ<img width="200" height="111" alt="tumblr_c7f0d1c9d3640be08b8e76a2426d2db7_51e4b76a_100" src="https://github.com/user-attachments/assets/746c247b-dcda-422d-b619-4a62a84c2c4e" />
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ。✿ ㅅ `͈ 𓏼 )ა
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ。✿ ㅅ `͈ 𓏼 )ა
