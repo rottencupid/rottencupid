@@ -8,7 +8,7 @@
 
    ་ <img width="188" height="25" alt="tumblr_153306e010c733d6eac6e17f2ead7553_3b83c862_250" src="https://github.com/user-attachments/assets/6d91f0fc-97b7-4188-9014-ea7096488e51" /> ་
 
-<img width="80" height="18" alt="tumblr_c91561bef16f3ae1a90be300a16904e3_f926a5c2_100" src="https://github.com/user-attachments/assets/aeafe0a5-f3c6-464d-9937-a6d844aa6c20" />   ͜͜✚     [carrd](https://httpxiangsi.carrd.co)   . [pint](https://ru.pinterest.com/YuiOguraorig/) ： ![Static Badge](https://img.shields.io/badge/⋮-xxx.gaycorn-79a691?logo=discord&labelColor=white?logoColor=cyan)
+<img width="80" height="18" alt="tumblr_c91561bef16f3ae1a90be300a16904e3_f926a5c2_100" src="https://github.com/user-attachments/assets/aeafe0a5-f3c6-464d-9937-a6d844aa6c20" />   ͜͜✚     [carrd](https://httpxiangsi.carrd.co)   . [pint](https://ru.pinterest.com/YuiOguraorig/) ： ![Static Badge](https://img.shields.io/badge/⋮-xxx.gaycorn-79a691?logo=discord&labelColor=white&logoColor=cyan)
 
 
 <img width="80" height="18" alt="tumblr_c91561bef16f3ae1a90be300a16904e3_f926a5c2_100" src="https://github.com/user-attachments/assets/aeafe0a5-f3c6-464d-9937-a6d844aa6c20" />
