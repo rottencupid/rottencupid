@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𓊆ྀི ‎‎![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?label=sins+♡&color=ab204a&labelColor=f2f2f2) ་∔་ <img width="53" height="18" alt="tumblr_0fc2285ae1344407994ca0a38ddb5257_f7bf1d62_75" src="https://github.com/user-attachments/assets/623c264f-13e5-4674-94f1-12435d1e9181" />
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𓊆ྀི ‎‎![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?label=sins+♡&color=ab204a&labelColor=fdfdfe) ་∔་ <img width="53" height="18" alt="tumblr_0fc2285ae1344407994ca0a38ddb5257_f7bf1d62_75" src="https://github.com/user-attachments/assets/623c264f-13e5-4674-94f1-12435d1e9181" />
   ˖
   
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ❝ dear God... i've come to repent my sins... ❞
@@ -8,7 +8,7 @@
 
    ་ <img width="188" height="25" alt="tumblr_153306e010c733d6eac6e17f2ead7553_3b83c862_250" src="https://github.com/user-attachments/assets/6d91f0fc-97b7-4188-9014-ea7096488e51" /> ་
 
-<img width="80" height="18" alt="tumblr_c91561bef16f3ae1a90be300a16904e3_f926a5c2_100" src="https://github.com/user-attachments/assets/aeafe0a5-f3c6-464d-9937-a6d844aa6c20" />   ͜͜✚     [carrd](https://httpxiangsi.carrd.co)   . [pint](https://ru.pinterest.com/YuiOguraorig/) ： ![Static Badge](https://img.shields.io/badge/⋮-xxx.gaycorn-white?logo=discord&labelColor=white&logoColor=ab204a)
+<img width="80" height="18" alt="tumblr_c91561bef16f3ae1a90be300a16904e3_f926a5c2_100" src="https://github.com/user-attachments/assets/aeafe0a5-f3c6-464d-9937-a6d844aa6c20" />   ͜͜✚     [carrd](https://httpxiangsi.carrd.co)   . [pint](https://ru.pinterest.com/YuiOguraorig/) ： ![Static Badge](https://img.shields.io/badge/⋮-xxx.gaycorn-fdfdfe?logo=discord&labelColor=fdfdfe&logoColor=ab204a)
 
 
 <img width="80" height="18" alt="tumblr_c91561bef16f3ae1a90be300a16904e3_f926a5c2_100" src="https://github.com/user-attachments/assets/aeafe0a5-f3c6-464d-9937-a6d844aa6c20" />
