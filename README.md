@@ -12,6 +12,6 @@
 
 ㅤㅤㅤㅤ ㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ<img width="199" height="110" alt="tumblr_c7f0d1c9d3640be08b8e76a2426d2db7_51e4b76a_100" src="https://github.com/user-attachments/assets/746c247b-dcda-422d-b619-4a62a84c2c4e" />
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤ ㅤ ྀི◟  𓏏   𓏼´ ⋏ `𓏼）   ♡
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤ ㅤ。✿ ㅅ `͈ 𓏼 )ა
 
 <img width="400" height="23" alt="tumblr_ba2de6777a3444318368230e730f2a98_e0497f0f_400" src="https://github.com/user-attachments/assets/e0f83e3e-30ca-411c-8e37-e6a5d2a68f45" />
