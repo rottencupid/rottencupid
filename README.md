@@ -17,9 +17,3 @@
 .
 .
 <img width="335" height="60" alt="tumblr_58c50d1e8552a764575cdf691040dbd5_5b3976e3_1280" src="https://github.com/user-attachments/assets/a5966690-ee1f-4a13-901d-4f1c472a42eb" />
-
-  ྀི◟  𓏏   𓏼´ ⋏ `𓏼）   ♡
-
-<img width="350" height="19" alt="tumblr_9caa3a07cb58f64a2eeb07022c3a66bf_37173f11_400" src="https://github.com/user-attachments/assets/17141dc2-5326-4c9c-b170-3a41810946db" />
-/
-   ་ <img width="188" height="25" alt="tumblr_153306e010c733d6eac6e17f2ead7553_3b83c862_250" src="https://github.com/user-attachments/assets/6d91f0fc-97b7-4188-9014-ea7096488e51" /> ་
