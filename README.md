@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𓊆ྀི ‎‎![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?label=sins+♡&color=ab204a&labelColor=454a50) ་∔་ <img width="58" height="21" alt="tumblr_0fc2285ae1344407994ca0a38ddb5257_f7bf1d62_75" src="https://github.com/user-attachments/assets/623c264f-13e5-4674-94f1-12435d1e9181" />
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𓊆ྀི ‎‎![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?label=sins+♡&color=ab204a&labelColor=454a50) ་∔་ <img width="58" height="21" alt="tumblr_0fc2285ae1344407994ca0a38ddb5257_f7bf1d62_75" src="https://github.com/user-attachments/assets/623c264f-13e5-4674-94f1-12435d1e9181" />
   ˖
   
 ❝ dear God...
