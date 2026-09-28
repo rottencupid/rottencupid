@@ -10,6 +10,6 @@
 
 ㅤㅤ ㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="80" height="18" alt="tumblr_c91561bef16f3ae1a90be300a16904e3_f926a5c2_100" src="https://github.com/user-attachments/assets/aeafe0a5-f3c6-464d-9937-a6d844aa6c20" />
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ<img width="199" height="110" alt="tumblr_c7f0d1c9d3640be08b8e76a2426d2db7_51e4b76a_100" src="https://github.com/user-attachments/assets/746c247b-dcda-422d-b619-4a62a84c2c4e" />
+ㅤㅤㅤㅤ ㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ<img width="199" height="110" alt="tumblr_c7f0d1c9d3640be08b8e76a2426d2db7_51e4b76a_100" src="https://github.com/user-attachments/assets/746c247b-dcda-422d-b619-4a62a84c2c4e" />
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ ㅤ ྀི◟  𓏏   𓏼´ ⋏ `𓏼）   ♡
