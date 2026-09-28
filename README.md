@@ -13,5 +13,3 @@
 ㅤㅤㅤㅤ ㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ<img width="199" height="110" alt="tumblr_c7f0d1c9d3640be08b8e76a2426d2db7_51e4b76a_100" src="https://github.com/user-attachments/assets/746c247b-dcda-422d-b619-4a62a84c2c4e" />
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤ ㅤ ྀི◟  𓏏   𓏼´ ⋏ `𓏼）   ♡
-
-<img width="250" height="51" alt="tumblr_4ee6ffb7834a6699514e50061a0018f9_8d026fff_250" src="https://github.com/user-attachments/assets/28feb237-4c25-40c5-8404-4812bc8706d8" />
