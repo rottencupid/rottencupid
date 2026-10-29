@@ -56,3 +56,5 @@
 </div>
 
 <img src="https://camo.githubusercontent.com/90c275a13ca9ff5ba0ea81d79655df05373d01af2ba2c71209a3c44d0ba16a51/68747470733a2f2f66696c65732e636174626f782e6d6f652f647734336e782e706e67" width="90" data-canonical-src="https://files.catbox.moe/dw43nx.png" style="max-width: 100%;">
+
+<img width="736" height="736" alt="Без названия23_20261029145442" src="https://github.com/user-attachments/assets/1c2063e2-a35c-478b-8037-81fe99f75cc8" />
