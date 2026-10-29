@@ -53,8 +53,3 @@
 ‎
 ‎</p>
 </div>
-
-<img src="https://camo.githubusercontent.com/90c275a13ca9ff5ba0ea81d79655df05373d01af2ba2c71209a3c44d0ba16a51/68747470733a2f2f66696c65732e636174626f782e6d6f652f647734336e782e706e67" width="90" data-canonical-src="https://files.catbox.moe/dw43nx.png" style="max-width: 100%;">
-
-
-
