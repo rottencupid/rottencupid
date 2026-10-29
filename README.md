@@ -18,7 +18,7 @@
 ‎
 ‎</p>
 <p dir="auto">‎
-‎ <a href="https://notgonnaflipoff.atabook.org" rel="nofollow"><img src="https://camo.githubusercontent.com/90c275a13ca9ff5ba0ea81d79655df05373d01af2ba2c71209a3c44d0ba16a51/68747470733a2f2f66696c65732e636174626f782e6d6f652f647734336e782e706e67" width="90" data-canonical-src="https://files.catbox.moe/dw43nx.png" style="max-width: 100%;"></a>ㅤ  <a href="https://fluffle.cc/soukeye" rel="nofollow"><img width="136" height="136" alt="Без названия23_20261029141309" src="https://github.com/user-attachments/assets/c928930c-d157-40fd-b530-01548d5eab3b" width="90" data-canonical-src="https://files.catbox.moe/1kdcv1.png" style="max-width: 100%;"></a>
+‎ <a href="https://notgonnaflipoff.atabook.org" rel="nofollow"><img src="https://camo.githubusercontent.com/90c275a13ca9ff5ba0ea81d79655df05373d01af2ba2c71209a3c44d0ba16a51/68747470733a2f2f66696c65732e636174626f782e6d6f652f647734336e782e706e67" width="90" data-canonical-src="https://files.catbox.moe/dw43nx.png" style="max-width: 100%;"></a>ㅤ  <a href="https://fluffle.cc/soukeye" rel="nofollow"><img width="136" height="136" alt="Без названия23_20261029141309" src="https://github.com/user-attachments/assets/c928930c-d157-40fd-b530-01548d5eab3b" width="90" data-canonical-src="https://files.catbox.moe/1kdcv1.png" style="max-width: 100%;"></a> backgroundremover -i "/path/to/image.jpeg" -o "output.png"
 ‎
 ‎</p>
 <p dir="auto">‎
