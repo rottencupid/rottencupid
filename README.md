@@ -55,5 +55,4 @@
 ‎</p>
 </div>
 
-[[https://camo.githubusercontent.com/a009ddecd543e70ae306b7d60c688efa401677c3cd87d7caf6457a5c7430dc00/68747470733a2f2f66696c65732e636174626f782e6d6f652f316b646376312e706e67
-](https://notgonnaflipoff.atabook.org/)](https://notgonnaflipoff.atabook.org/)
+<img src="https://camo.githubusercontent.com/90c275a13ca9ff5ba0ea81d79655df05373d01af2ba2c71209a3c44d0ba16a51/68747470733a2f2f66696c65732e636174626f782e6d6f652f647734336e782e706e67" width="90" data-canonical-src="https://files.catbox.moe/dw43nx.png" style="max-width: 100%;">
