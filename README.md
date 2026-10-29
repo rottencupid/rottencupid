@@ -22,11 +22,7 @@
 ‎</p>
 <p dir="auto">‎
 ‎</p>
-<details> <summary>ㅤㅤ୭ৎㅤ ( ᴗ͈ˬᴗ͈)ഒ </summary> 
-   <p align="center" dir="auto"> 
-</p><p dir="auto"><sub><a href="https://github.com/piehiker">@piehiker</a>ㅤ <a href="https://github.com/sea-sick">@sea-sick</a> ♡ <br>
-<a href="https://github.com/catsinthecold">@catsinthecold</a>ㅤ <a href="https://github.com/jujuberii">@jujuberii</a>ㅤ <a href="https://github.com/better-to-sleep">@better-to-sleep</a>ㅤ <a href="https://github.com/deepaffection">@deepaffection</a>  ㅤ<br> <a href="https://github.com/brandozos">@brandozos</a> ㅤ<a href="https://github.com/serranavarro">@serranavarro</a> ㅤ<a href="https://github.com/newestalbum">@newestalbum</a> ㅤ<a href="https://github.com/tirgery123">@tirgery123</a></sub></p>
-</details>
+![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?style=flat&label=(+=+⩊+=+)+&color=ffeef3&labelColor=e1b08b)
 ‎ 
 ‎ 
 ‎  
