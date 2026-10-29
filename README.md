@@ -23,7 +23,7 @@
 <p dir="auto">‎
 ‎</p>
 
-![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?style=flat&label=𓏲ּ𝄢˖+&color=ffeef3&labelColor=e1b08b)
+![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?style=flat&label=𓏲ּ𝄢˖+&color=ffeef3&labelColor=ba8595)
 
 ‎ 
 ‎ 
