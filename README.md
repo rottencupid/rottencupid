@@ -58,5 +58,5 @@
 <img src="https://camo.githubusercontent.com/90c275a13ca9ff5ba0ea81d79655df05373d01af2ba2c71209a3c44d0ba16a51/68747470733a2f2f66696c65732e636174626f782e6d6f652f647734336e782e706e67" width="90" data-canonical-src="https://files.catbox.moe/dw43nx.png" style="max-width: 100%;">
 
 <img width="236" height="236" alt="Без названия23_20261029152539" src="https://github.com/user-attachments/assets/aa1a10e9-4648-4295-8072-3b35f375bef9" />
-<img width="216" height="216" alt="Без названия23_20261029152742" src="https://github.com/user-attachments/assets/c2afe7c6-6bbf-441e-8438-66cd8c6a82ad" />
+<img width="196" height="196" alt="Без названия23_20261029152742" src="https://github.com/user-attachments/assets/c2afe7c6-6bbf-441e-8438-66cd8c6a82ad" />
 <img width="236" height="236" alt="Без названия23_20261029152948" src="https://github.com/user-attachments/assets/e9194529-e6d7-44ed-bdd5-c87cd8bed0c3" />
