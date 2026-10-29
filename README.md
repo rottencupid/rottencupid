@@ -59,4 +59,4 @@
 
 
 
-<img width="136" height="136" alt="Без названия23_20261029145834" src="https://github.com/user-attachments/assets/9311975e-3889-4a9e-82a0-93fa91c378d4" />
+<img width="236" height="236" alt="Без названия23_20261029145834" src="https://github.com/user-attachments/assets/9311975e-3889-4a9e-82a0-93fa91c378d4" />
