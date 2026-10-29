@@ -54,3 +54,8 @@
 ‎
 ‎</p>
 </div>
+
+
+
+
+<img width="736" height="736" alt="゙ ཀ ᛕα𝓼𝔲𝔯𝒊𝛓h　་། ˘˖ ◞ ͜ ྐ𐂯 ͜ ◟　⁺" src="https://github.com/user-attachments/assets/cb72d794-b9ea-4579-86b3-3d9bbf860aaa" />
