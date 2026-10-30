@@ -26,8 +26,6 @@
 
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?style=flat&label=𓏲ּ𝄢˖+&color=ffeef3&labelColor=ba8595)
 
-˖ ◞ ͜ ྐ𐂯 ͜ ◟　⁺
-
 ‎ 
 ‎ 
 ‎  
