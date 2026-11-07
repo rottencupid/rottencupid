@@ -92,7 +92,7 @@
   </mrow>
 </math></math-renderer> ㅤ
 </p>
-<div align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d0c8e9526218b5becfecb54cbd51b0e0df5c4527a4dcebfce178b9a019107286/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137343230383736332e706e67"><img src="https://camo.githubusercontent.com/d0c8e9526218b5becfecb54cbd51b0e0df5c4527a4dcebfce178b9a019107286/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137343230383736332e706e67" data-canonical-src="https://file.garden/aLb51Fo8eB2dIZRH/image_2026-05-04_174208763.png" style="max-width: 100%;"></a></div>
+<div align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d0c8e9526218b5becfecb54cbd51b0e0df5c4527a4dcebfce178b9a019107286/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137343230383736332e706e67"><img width="736" height="736" alt="Без названия26" src="https://github.com/user-attachments/assets/ee8cfcac-1556-4e33-980a-2c04aafb9ed1" /><img width="736" height="736" alt="Без названия27" src="https://github.com/user-attachments/assets/207a2a59-d36b-4e07-9d2b-9e871f7e5202" /></a></div>
 <p align="center" dir="auto">
 ㅤ <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mrow data-mjx-texclass="ORD">
