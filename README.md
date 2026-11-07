@@ -519,3 +519,4 @@
 
 $\color{#d889a8}{\textsf{jealousy,}}$ $\color{#fcdbcb}{\textsf{jealousy,}}$ $\color{#d889a8}{\textsf{jealousy}}$
 $\color{#f3ca80}{\textsf{is such an}}$ $\color{#d9437e}{\textsf{evil}}$ $\color{#f3ca80}{\textsf{thing to watch}}$ $\color{#fcdbcb}{\textsf{someone}}$ $\color{#f3ca80}{\textsf{have...}}$
+$\color{#fcdbcb}{\textsf{jealousy,}}$ $\color{#d889a8}{\textsf{jealousy,}}$ $\color{#fcdbcb}{\textsf{jealousy}}$
