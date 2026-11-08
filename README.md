@@ -31,6 +31,5 @@
 
 <p dir="auto">‎  </p>
 <div align="center" dir="auto">
-‎<p dir="auto"></p>
-<p dir="auto">‎<br>
-ㅤ ![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?style=flat&label=𓏲ּ𝄢˖+&color=ffeef3&labelColor=ba8595&format=short)
+
+ ㅤ ![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?style=flat&label=𓏲ּ𝄢˖+&color=ffeef3&labelColor=ba8595&format=short)
