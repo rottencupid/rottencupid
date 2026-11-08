@@ -25,8 +25,7 @@
   </mrow>
 </math></math-renderer> ㅤ
 </p>
-ㅤ
-<p dir="auto">‎  </p>
+ㅤ<p dir="auto">‎  </p>
 <div align="center" dir="auto">
 <p dir="auto">‎<br>
 ‎<br> $\color{#ffb0b6}{\textsf{‿̩͙‿}}$ $\color{#ffe2d0}{\textsf{𓏵}}$ $\color{#d9437e}{\textsf{ㅤ♡ㅤ}}$ $\color{#ffe2d0}{\textsf{𓏵}}$ $\color{#ffb0b6}{\textsf{‿̩͙‿}}$
