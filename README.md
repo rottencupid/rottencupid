@@ -12,79 +12,10 @@
 𝄞ㅤ𓈒  ݁ㅤ $\color{#d889a8}{\textsf{jealousy,}}$ $\color{#fdcec4}{\textsf{jealousy,}}$ $\color{#d889a8}{\textsf{jealousy}}$
 
  $\color{#f3ca80}{\textsf{is such an}}$ $\color{#d9437e}{\textsf{evil}}$ $\color{#f3ca80}{\textsf{thing to watch}}$ $\color{#fdcec4}{\textsf{someone}}$ $\color{#f3ca80}{\textsf{have...}}$
-$\color{#fdcec4}{\textsf{jealousy,}}$ $\color{#d889a8}{\textsf{jealousy,}}$ $\color{#fdcec4}{\textsf{jealousy}}$
-$\color{#f3ca80}{\textsf{nobody wins, when}}$ $\color{#d889a8}{\textsf{you're}}$ $\color{#f3ca80}{\textsf{full of}}$ $\color{#d9437e}{\textsf{envy}}$
     </mstyle>
   </mrow>
 </math></math-renderer> ㅤㅤ<br>
-<math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#1E3047">
-      <mi>t</mi>
-      <mi>h</mi>
-      <mi>a</mi>
-      <mi>t</mi>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#3E5263">
-      <mi>w</mi>
-      <mi>a</mi>
-      <mi>s</mi>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#687E87">
-      <mi>u</mi>
-      <mi>n</mi>
-      <mi>t</mi>
-      <mi>i</mi>
-      <mi>l</mi>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#8DA5A6">
-      <mi>y</mi>
-      <mi>o</mi>
-      <mi>u</mi>
-    </mstyle>
-  </mrow>
-</math></math-renderer> ㅤ <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#AAAEAD">
-      <mi>c</mi>
-      <mi>a</mi>
-      <mi>m</mi>
-      <mi>e</mi>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#CAB8B4">
-      <mi>a</mi>
-      <mi>l</mi>
-      <mi>o</mi>
-      <mi>n</mi>
-      <mi>g</mi>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#E3C0BA">
-      <mrow data-mjx-texclass="ORD">
-        <mo>♡</mo>
-      </mrow>
-    </mstyle>
-  </mrow>
-</math></math-renderer> ㅤ <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#3E5263">
-      <mrow data-mjx-texclass="ORD">
-        <mo>◞</mo>
-      </mrow>
+$\color{#f3ca80}{\textsf{is such an}}$ $\color{#d9437e}{\textsf{evil}}$ $\color{#f3ca80}{\textsf{thing to watch}}$ $\color{#fdcec4}{\textsf{someone}}$ $\color{#f3ca80}{\textsf{have...}}$
     </mstyle>
   </mrow>
 </math></math-renderer> ㅤ<br>
