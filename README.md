@@ -32,4 +32,4 @@
 <p dir="auto">‎  </p>
 <div align="center" dir="auto">
 
-ㅤ![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?style=flat&label=𓏲ּ𝄢peachplums˖+&color=ffeef3&labelColor=ba8595&format=short)
+ㅤ![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?style=flat&label=𓏲ּ𝄢peachplums˖+&color=d9437e&labelColor=ba8595&format=short)
