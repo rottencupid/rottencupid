@@ -1,4 +1,3 @@
-ㅤ ![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?style=flat&label=𓏲ּ𝄢˖+&color=ffeef3&labelColor=ba8595&format=short)
 <p dir="auto">‎  </p>
 <div align="center" dir="auto">
 ‎<p dir="auto"></p>
@@ -29,3 +28,9 @@
 <div align="center" dir="auto">
 <p dir="auto">‎<br>
 ‎<br> $\color{#fdcec4}{\textsf{ヽ(๑・U・)ﾉ}}$ $\color{#d889a8}{\textsf{(・ω・๑)}}$
+
+<p dir="auto">‎  </p>
+<div align="center" dir="auto">
+‎<p dir="auto"></p>
+<p dir="auto">‎<br>
+ㅤ ![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?style=flat&label=𓏲ּ𝄢˖+&color=ffeef3&labelColor=ba8595&format=short)
