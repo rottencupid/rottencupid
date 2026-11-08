@@ -1,97 +1,11 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><div align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a79418cb70bafea6cc856534833abd7ec850da59659c7ea5c9837a34eace59e/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137353434363832312e706e67"><img src="https://camo.githubusercontent.com/7a79418cb70bafea6cc856534833abd7ec850da59659c7ea5c9837a34eace59e/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137353434363832312e706e67" data-canonical-src="https://file.garden/aLb51Fo8eB2dIZRH/image_2026-05-04_175446821.png" style="max-width: 100%;"></a></div>
-<p align="center" dir="auto">
-<math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#1E3047">
-      <mi>｡</mi>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#3E5263">
-      <mrow data-mjx-texclass="ORD">
-        <mo>⁖</mo>
-      </mrow>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#687E87">
-      <mrow data-mjx-texclass="ORD">
-        <mo>✦</mo>
-      </mrow>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#8DA5A6">
-      <mrow data-mjx-texclass="ORD">
-        <mo>˖</mo>
-      </mrow>
-    </mstyle>
-  </mrow>
-</math></math-renderer> ㅤ <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#AAAEAD">
-      <mo>.</mo>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#CAB8B4">
-      <mo>⊹</mo>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#E3C0BA">
-      <mi>｡</mi>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#CAB8B4">
-      <mrow data-mjx-texclass="ORD">
-        <mo>˖</mo>
-      </mrow>
-    </mstyle>
-  </mrow>
-</math></math-renderer> ㅤ <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#AAAEAD">
-      <mrow data-mjx-texclass="ORD">
-        <mo>✧</mo>
-      </mrow>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#8DA5A6">
-      <mo>⊹</mo>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#687E87">
-      <mi>｡</mi>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#3E5263">
-      <mrow data-mjx-texclass="ORD">
-        <mo>⁖</mo>
-      </mrow>
-    </mstyle>
-  </mrow>
-</math></math-renderer> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow data-mjx-texclass="ORD">
-    <mstyle mathcolor="#1E3047">
-      <mo>.</mo>
-    </mstyle>
-  </mrow>
-</math></math-renderer> ㅤ
-</p>
+<p dir="auto">‎  </p>
+<div align="center" dir="auto">
+‎<p dir="auto"></p>
+<p dir="auto">‎<br>
+‎<br>
+‎
+‎</p>
+<p dir="auto">
 <div align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d0c8e9526218b5becfecb54cbd51b0e0df5c4527a4dcebfce178b9a019107286/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137343230383736332e706e67"><img width="236" height="236" alt="Без названия26_20261107201143" src="https://github.com/user-attachments/assets/39f54aaf-17e2-4dd9-b094-0f8249aa28b8" /><img width="236" height="236" alt="Без названия27_20261107201125" src="https://github.com/user-attachments/assets/01bb814b-1384-404a-b3db-172ae7bd9d26" /></a></div>
 <p align="center" dir="auto">
 ㅤ <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
