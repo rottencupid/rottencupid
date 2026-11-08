@@ -15,9 +15,6 @@
     </mstyle>
   </mrow>
 </math></math-renderer> ㅤㅤ<br>
-    </mstyle>
-  </mrow>
-</math></math-renderer> ㅤ<br>
 </p>
 <p align="center" dir="auto">
  <a href="https://ahri.atabook.org" rel="nofollow"> ata</a>ㅤㅤ <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
