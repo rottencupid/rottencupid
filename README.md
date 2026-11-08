@@ -11,7 +11,7 @@
 ㅤ <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
 𝄞ㅤ𓈒  ݁ㅤ $\color{#d889a8}{\textsf{jealousy,}}$ $\color{#fdcec4}{\textsf{jealousy,}}$ $\color{#d889a8}{\textsf{jealousy}}$
 
- $\color{#f3ca80}{\textsf{is such an}}$ $\color{#d9437e}{\textsf{evil}}$ $\color{#f3ca80}{\textsf{thing to watch}}$ $\color{#fdcec4}{\textsf{someone}}$ $\color{#f3ca80}{\textsf{have...}}$
+ $\color{#f3ca80}{\textsf{is such an}}$ $\color{#d9437e}{\textsf{evil}}$ $\color{#f3ca80}{\textsf{thing to watch}}$ $\color{#fdcec4}{\textsf{someone}}$ $\color{#f3ca80}{\textsf{have...}}$ㅤ・✿
     </mstyle>
   </mrow>
 </math></math-renderer> ㅤㅤ<br>
