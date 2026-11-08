@@ -15,7 +15,7 @@
     </mstyle>
   </mrow>
 <p align="center" dir="auto">
- <a href="https://ahri.atabook.org" rel="nofollow"> ata</a>ㅤㅤ <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
+ <a href="https://discordapp.com/users/xxx.gaycorn" rel="nofollow"><img width="236" height="236" alt="Без названия28_20261108132300" src="https://github.com/user-attachments/assets/77e22633-0da6-4601-962b-f19ca940ab85" /></a><img width="196" height="196" alt="Без названия23_20261029152742" src="https://github.com/user-attachments/assets/c2afe7c6-6bbf-441e-8438-66cd8c6a82ad" /><a href="https://xianroong.carrd.co" rel="nofollow"><img width="236" height="236" alt="Без названия23_20261029152948" src="https://github.com/user-attachments/assets/e9194529-e6d7-44ed-bdd5-c87cd8bed0c3" width="90" data-canonical-src="https://files.catbox.moe/1kdcv1.png" style="max-width: 100%;"></a>
   <mrow data-mjx-texclass="ORD">
     <mstyle mathcolor="#3E5263">
       <mi>｡</mi>
