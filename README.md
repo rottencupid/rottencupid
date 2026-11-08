@@ -3,7 +3,6 @@
 ‎<p dir="auto"></p>
 <p dir="auto">‎<br>
 ‎<br> $\color{#ffb0b6}{\textsf{ʚ⏝⏝}}$ $\color{#d9437e}{\textsf{୨୧}}$ $\color{#ffe2d0}{\textsf{𓏵𓏵𓏵𓏵}}$ $\color{#d9437e}{\textsf{୨୧}}$ $\color{#ffb0b6}{\textsf{⏝⏝ɞ}}$
-  ‿̩͙‿੭ㅤ♡ㅤৎ‿̩͙‿ 
  $\color{#ffb0b6}{\textsf{‿̩͙‿}}$ $\color{#ffe2d0}{\textsf{੭}}$ $\color{#d9437e}{\textsf{ㅤ♡ㅤ}}$ $\color{#ffe2d0}{\textsf{ৎ}}$ $\color{#ffb0b6}{\textsf{‿̩͙‿}}$
 ‎</p>
 <p dir="auto">
