@@ -15,7 +15,7 @@
     </mstyle>
   </mrow>
 <p align="center" dir="auto">
- ㅤㅤ<a href="https://x.com/yuioguraz" rel="nofollow"><img width="136" height="136" alt="Без названия28_20261108132300" src="https://github.com/user-attachments/assets/77e22633-0da6-4601-962b-f19ca940ab85" /></a><a href="https://xianroong.carrd.co" rel="nofollow"><img width="136" height="136" alt="Без названия28_20261108132153" src="https://github.com/user-attachments/assets/0652d6c9-3bbd-49bd-991c-0cfc35d3243e" /></a>
+ <a href="https://x.com/yuioguraz" rel="nofollow"><img width="136" height="136" alt="Без названия28_20261108132300" src="https://github.com/user-attachments/assets/77e22633-0da6-4601-962b-f19ca940ab85" /></a><a href="https://xianroong.carrd.co" rel="nofollow"><img width="136" height="136" alt="Без названия28_20261108132153" src="https://github.com/user-attachments/assets/0652d6c9-3bbd-49bd-991c-0cfc35d3243e" /></a>
 
  ㅤ <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
 𝄞ㅤ𓈒  ݁ㅤ $\color{#d889a8}{\textsf{jealousy,}}$ $\color{#fdcec4}{\textsf{jealousy,}}$ $\color{#d889a8}{\textsf{jealousy}}$
