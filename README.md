@@ -15,7 +15,6 @@
     </mstyle>
   </mrow>
 </math></math-renderer> ㅤㅤ<br>
-$\color{#f3ca80}{\textsf{is such an}}$ $\color{#d9437e}{\textsf{evil}}$ $\color{#f3ca80}{\textsf{thing to watch}}$ $\color{#fdcec4}{\textsf{someone}}$ $\color{#f3ca80}{\textsf{have...}}$
     </mstyle>
   </mrow>
 </math></math-renderer> ㅤ<br>
