@@ -2,8 +2,8 @@
 <div align="center" dir="auto">
 ‎<p dir="auto"></p>
 <p dir="auto">‎<br>
-‎<br> $\color{#ffb0b6}{\textsf{ʚ⏝⏝}}$ $\color{#d9437e}{\textsf{୨୧}}$ $\color{#ffe2d0}{\textsf{𓏵𓏵𓏵𓏵}}$ $\color{#d9437e}{\textsf{୨୧}}$ $\color{#ffb0b6}{\textsf{⏝⏝ɞ}}$
- $\color{#ffb0b6}{\textsf{‿̩͙‿}}$ $\color{#ffe2d0}{\textsf{𓏵}}$ $\color{#d9437e}{\textsf{ㅤ♡ㅤ}}$ $\color{#ffe2d0}{\textsf{𓏵}}$ $\color{#ffb0b6}{\textsf{‿̩͙‿}}$
+‎<br> $\color{#ffb0b6}{\textsf{‿̩͙‿}}$ $\color{#ffe2d0}{\textsf{𓏵}}$ $\color{#d9437e}{\textsf{ㅤ♡ㅤ}}$ $\color{#ffe2d0}{\textsf{𓏵}}$ $\color{#ffb0b6}{\textsf{‿̩͙‿}}$
+
 ‎</p>
 <p dir="auto">
  <div align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d0c8e9526218b5becfecb54cbd51b0e0df5c4527a4dcebfce178b9a019107286/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137343230383736332e706e67"><img width="236" height="236" alt="Без названия26_20261107201143" src="https://github.com/user-attachments/assets/39f54aaf-17e2-4dd9-b094-0f8249aa28b8" /><img width="236" height="236" alt="Без названия27_20261107201125" src="https://github.com/user-attachments/assets/01bb814b-1384-404a-b3db-172ae7bd9d26" /></a></div>
