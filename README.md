@@ -2,7 +2,7 @@
 <div align="center" dir="auto">
 ‎<p dir="auto"></p>
 <p dir="auto">‎<br>
-‎<br> ʚ⏝⏝୨୧𓏵𓏵𓏵𓏵୨୧⏝⏝ɞ
+‎<br>ʚ⏝⏝୨୧𓏵𓏵𓏵𓏵୨୧⏝⏝ɞ
 
 ‎</p>
 <p dir="auto">
