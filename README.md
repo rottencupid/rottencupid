@@ -431,7 +431,7 @@
 <div align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a79418cb70bafea6cc856534833abd7ec850da59659c7ea5c9837a34eace59e/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137353434363832312e706e67"><img src="https://camo.githubusercontent.com/7a79418cb70bafea6cc856534833abd7ec850da59659c7ea5c9837a34eace59e/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137353434363832312e706e67" data-canonical-src="https://file.garden/aLb51Fo8eB2dIZRH/image_2026-05-04_175446821.png" style="max-width: 100%;"></a></div>
 </article>
 
-𝄞    𓏼  ◜𓈒  ݁   $\color{#d889a8}{\textsf{jealousy,}}$ $\color{#fdcec4}{\textsf{jealousy,}}$ $\color{#d889a8}{\textsf{jealousy}}$
+𝄞    𓈒  ݁   $\color{#d889a8}{\textsf{jealousy,}}$ $\color{#fdcec4}{\textsf{jealousy,}}$ $\color{#d889a8}{\textsf{jealousy}}$
 $\color{#f3ca80}{\textsf{is such an}}$ $\color{#d9437e}{\textsf{evil}}$ $\color{#f3ca80}{\textsf{thing to watch}}$ $\color{#fdcec4}{\textsf{someone}}$ $\color{#f3ca80}{\textsf{have...}}$
 $\color{#fdcec4}{\textsf{jealousy,}}$ $\color{#d889a8}{\textsf{jealousy,}}$ $\color{#fdcec4}{\textsf{jealousy}}$
 $\color{#f3ca80}{\textsf{nobody wins, when}}$ $\color{#d889a8}{\textsf{you're}}$ $\color{#f3ca80}{\textsf{full of}}$ $\color{#d9437e}{\textsf{envy}}$
