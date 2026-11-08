@@ -1,6 +1,6 @@
 <div align="center" dir="auto">
 <p dir="auto">‎<br>
-‎<br>&nbsp; $\color{#ffb0b6}{\textsf{‿̩͙‿}}$ $\color{#ffe2d0}{\textsf{𓏵}}$ $\color{#d9437e}{\textsf{ㅤ♡ㅤ}}$ $\color{#ffe2d0}{\textsf{𓏵}}$ $\color{#ffb0b6}{\textsf{‿̩͙‿}}$
+‎<br> $\color{#ffb0b6}{\textsf{‿̩͙‿}}$ $\color{#ffe2d0}{\textsf{𓏵}}$ $\color{#d9437e}{\textsf{ㅤ♡ㅤ}}$ $\color{#ffe2d0}{\textsf{𓏵}}$ $\color{#ffb0b6}{\textsf{‿̩͙‿}}$
 
 ‎</p>
 <p dir="auto">
