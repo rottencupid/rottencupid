@@ -20,7 +20,7 @@
  ㅤ <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="9605059f00e66f7cfb4298cbb6ec4c69" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
 ㅤ $\color{#fdcec4}{\textsf{jealousy,}}$ $\color{#d889a8}{\textsf{jealousy,}}$ $\color{#fdcec4}{\textsf{jealousy}}$ ⠀ׅㅤׄ⊹
 
-  ྀི ㅤॱֺּㅤ $\color{#f3ca80}{\textsf{nobody wins, when}}$ $\color{#d889a8}{\textsf{you're}}$ $\color{#f3ca80}{\textsf{full of}}$ $\color{#d9437e}{\textsf{envy}}$
+  ྀི ㅤॱֺּㅤ $\color{#f3ca80}{\textsf{nobody wins, when}}$ $\color{#d889a8}{\textsf{you're}}$ $\color{#f3ca80}{\textsf{full of}}$ $\color{#d9437e}{\textsf{envy!}}$
     </mstyle>
   </mrow>
 </math></math-renderer> ㅤ
